@@ -1,0 +1,44 @@
+nav {
+  width: 100%;
+  padding: 5px 15px;
+  background-color: white;
+}
+#weather-container {
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+#weather-icon {
+  display: flex;
+  align-items: start;
+}
+img {
+  width: 150px;
+}
+h1 {
+  font-size: 2.9rem;
+  font-weight: 900;
+  margin-bottom: 0;
+}
+h2 {
+  margin-top: 0;
+  font-size: 1.85rem;
+}
+
+input {
+  all: unset;
+  padding: 8px;
+  border-bottom: 3px blueviolet solid;
+  font-size: 1.05em;
+  font-weight: bold;
+  margin-right: 10px;
+  color: blueviolet;
+}
+button {
+  all: unset;
+  background-color: blueviolet;
+  border: 3px blueviolet solid;
+  padding: 8px;
+  color: white;
+}

@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Cairo:200,300,regular,500,600,700,800,900");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:300,regular,500,600,700");
+* {
+  box-sizing: border-box;
+  font-family: "Comfortaa", sans-serif;
+}
+
+body {
+  margin: 0;
+}
