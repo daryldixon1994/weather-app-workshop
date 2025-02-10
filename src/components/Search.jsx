@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 function Search({ setSearch }) {
   const inputRef = useRef(null);
-  console.log("Search was re-rendered");
+  // console.log("Search was re-rendered");
 
   // console.log("cityData:", cityData);
   // function handleChange(cityName) {
